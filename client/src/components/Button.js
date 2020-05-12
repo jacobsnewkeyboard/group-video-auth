@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export default styled.button`
     background-color: whitesmoke;
-    color: lightblue;
+    color: midnightblue;
     height: 30px;
     width: 100%;
     font-size: 22px;
